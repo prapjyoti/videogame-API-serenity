@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Video game curd test","This Test wil create new video games","SUCCESS","2021-07-19T23:35:06.252+01:00[Europe/London]","0.0","12.77"
+"Video game curd test","This test will get video game information by id","SUCCESS","2021-07-19T23:35:19.154+01:00[Europe/London]","0.0","0.28"
+"Video game curd test","This test will update the video game by existing id","SUCCESS","2021-07-19T23:35:19.439+01:00[Europe/London]","0.0","2.47"
+"Video game curd test","This test will delete the videogame by id","SUCCESS","2021-07-19T23:35:21.910+01:00[Europe/London]","0.0","0.11"
+"Video game curd test","This test will get videogame","SUCCESS","2021-07-19T23:35:22.022+01:00[Europe/London]","0.0","0.15"
